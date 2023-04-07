@@ -1,0 +1,56 @@
+ .fir{
+    border-style: solid dashed dotted double;
+    border-color: red;
+    padding-left: 5px;
+ }
+ 
+ .fir h3{
+    color: white;
+    background-color: black;
+
+ }
+ .ab{
+    color: blue;
+}
+
+.abc{
+    color: rgb(235, 97, 33);
+    background-color: rgb(185, 223, 185);
+}
+.tet h4{
+    text-align: right;
+    
+}
+.tet h3{
+    text-align: center;
+}
+.tet h5{
+    text-align: left;
+}
+.fir1{
+    border-style: double;
+    border-color: brown;
+    margin-bottom: 10px;
+}
+.fir1:active,.par1{
+    text-align: right;
+}
+.fir1:active,.par2{
+    text-align: center;
+}
+.fir1:active,.par3{
+    text-align: left;
+}
+.fir2{
+    border-style: solid;
+    border-color: blueviolet;
+    
+}
+
+.fir2:active,.hea2{
+    text-shadow: 5px -10px  rgb(92, 21, 206);
+}
+.fir1:active,.hea3{
+    text-shadow: 5px -10px 2px #00FF00;
+    color: blueviolet;
+}
